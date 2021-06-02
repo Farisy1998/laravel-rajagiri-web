@@ -16,10 +16,7 @@
 </head>
 <body>
 @section('content')
-    <div class="container">
-      <div class="row">
-        <div class="col col-12 col-sm-12 col-md-12 col-lg-12">
-          <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-indicators">
               <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
               <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -68,8 +65,7 @@
                 <span class="visually-hidden">Next</span>
               </button>
             </div>
-          </div>
-        </div>
+    <div class="container">
         <br>
         <div class="row">
           <div class="col col-12 col-sm-6 col-md-6 col-lg-6">
@@ -80,9 +76,9 @@
               </tr>
               <tr>
                 <td>
-                  <p>Drawing inspiration from the founder, St. Kuriakose Elias Chavara, a great visionary, 
-                    reformer and religious leader of the 19th century, the Carmelites of Mary Immaculate (CMI), 
-                    the first indigenous religious congregation for men in India, dedicated themselves to education at 
+                  <p>Drawing inspiration from the founder, St. Kuriakose Elias Chavara, a great visionary,
+                    reformer and religious leader of the 19th century, the Carmelites of Mary Immaculate (CMI),
+                    the first indigenous religious congregation for men in India, dedicated themselves to education at
                     all levels
                   </p>
                 </td>
@@ -120,8 +116,8 @@
                 <th><h5>Eligibility Criteria :-</h5></th>
               </tr>
               <tr>
-                <td><p>A candidate seeking admission to MCA course must have a pass with not less than 50% 
-                      marks in any recognized regular bachelor's Degree course of minimum three years duration 
+                <td><p>A candidate seeking admission to MCA course must have a pass with not less than 50%
+                      marks in any recognized regular bachelor's Degree course of minimum three years duration
                       in any discipline with Mathematics at 10+2 level.
                     </p>
                   </td>
@@ -130,8 +126,8 @@
                 <td><p>OR</p></td>
               </tr>
               <tr>
-                <td><p>A pass with not less than 50% marks in any recognized Regular Bachelors Degree course of 
-                      minimum three years duration in any discipline with Mathematics/Statistics/Business Mathematics/ 
+                <td><p>A pass with not less than 50% marks in any recognized Regular Bachelors Degree course of
+                      minimum three years duration in any discipline with Mathematics/Statistics/Business Mathematics/
                       Business Statistics as one of the Subjects.
                     </p></td>
               </tr>
@@ -162,11 +158,11 @@
                         <td><h5>Eligibility Criteria :-</h5></td>
                       </tr>
                       <tr>
-                        <td><p>The eligibility for admission to M Sc Computer Science (Data Analytics) programme 
-                              is a B Sc Degree with Mathematics/Computer Science /Electronics as one of the subjects 
-                              (Main or Subsidiary) or BCA/B.Tech degree with not less than 55% marks in optional subjects. 
-                              Note: Candidates having degree in computer science/Computer Application/IT/Electronics shall be given a weightage of 20% in 
-                              their qualifying degree examination marks considered for ranking for admission to M Sc. Computer Science (Data Analytics). Reservation policy will be as 
+                        <td><p>The eligibility for admission to M Sc Computer Science (Data Analytics) programme
+                              is a B Sc Degree with Mathematics/Computer Science /Electronics as one of the subjects
+                              (Main or Subsidiary) or BCA/B.Tech degree with not less than 55% marks in optional subjects.
+                              Note: Candidates having degree in computer science/Computer Application/IT/Electronics shall be given a weightage of 20% in
+                              their qualifying degree examination marks considered for ranking for admission to M Sc. Computer Science (Data Analytics). Reservation policy will be as
                               regulated by parent University. </p></td>
                       </tr>
                       <tr>
